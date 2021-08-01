@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Percent_Board
+comment0.text=\n\ Write\ a\ description\ of\ class\ Percent_Board\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=Level\ Type
+comment1.target=Percent_Board(java.lang.String,\ java.lang.String)
+comment1.text=\n\ The\ constructor\ of\ the\ percent\ board\n\ It\ will\ take\ in\ two\ parameter,\ where\ type\ tells\ the\ board\ what\ element\ it\ is\ discribing,\ and\ level\ tells\ what\ value\ is\ the\ current\ element.\n\ @para\ Level\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ value\ of\ the\ element\n\ @para\ Type\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ type\ of\ the\ element\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=change\ Type
+comment3.target=void\ Updates(int,\ java.lang.String)
+comment3.text=\n\ This\ method\ \ allows\ other\ classes\ to\ updates\ the\ board,\ by\ the\ change\ (-1\ or\ 1,\ which\ will\ change\ the\ index\ number)\ \n\ and\ the\ corresponding\ type\ of\ element\n\ @para\ change\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -1\ or\ 1\ value,\ going\ up\ the\ array\ list\ or\ going\ down\ by\ 1\n\ @para\ Type\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ a\ string\ that\ discribes\ the\ type\ of\ element\n
+comment4.params=
+comment4.target=java.lang.String\ current_Value()
+comment4.text=\n\ Return\ the\ value\ of\ the\ element\ (Awareness\ or\ Mask)\ and\ allows\ other\ class\ to\ access\ it\n\ @return\ current_Value\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ current\ value\ of\ the\ element\n
+comment5.params=
+comment5.target=void\ drawImage()
+comment5.text=\n\ Draw\ the\ image\ of\ the\ board.\ \n
+numComments=6

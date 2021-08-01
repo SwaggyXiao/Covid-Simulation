@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=InstructionPage
+comment0.text=\n\ InstructionPage\ class\n\ \n\ Display\ the\ instruction\ of\ simulation.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=InstructionPage()
+comment1.text=\n\ Constructor\ for\ InstuctionPage\ that\ set\ the\ image\ for\ instuction\ page.\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Called\ by\ Greenfoot\ when\ an\ object\ of\ this\ class\ is\ added\ to\ \n\ the\ World.\n\ \n\ @param\ w\ The\ World\ being\ added\ to.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ InstructionPage\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=i
+comment4.target=void\ updateImage(int)
+comment4.text=\n\ Update\ the\ image\ of\ instruction\ page.\n
+numComments=5

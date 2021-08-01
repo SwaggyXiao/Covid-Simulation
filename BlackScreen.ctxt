@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BlackScreen
+comment0.text=\n\ BlackScreen\ Class\n\ \n\ Use\ to\ create\ the\ image\ of\ black\ screen,\ it\ will\ be\ created\n\ when\ the\ simulation\ is\ paused.\n\ \n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BlackScreen()
+comment1.text=\n\ Constructor\ of\ BlackScreen\ that\ set\ the\ image\ of\ black\ screen.\n
+numComments=2

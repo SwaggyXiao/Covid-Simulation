@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Supermarket
+comment0.text=\n\ Supermarket\ class\n\ \n\ A\ facility\ that\ can\ accomodate\ people.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Supermarket()
+comment1.text=\n\ Constructor\ of\ Supermarket\ that\ set\ the\ initial\ stats\ and\ image\n\ for\ supermarket.\n
+numComments=2

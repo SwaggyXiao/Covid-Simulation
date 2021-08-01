@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HomeData
+comment0.text=\n\ HomeData\ class\n\ \n\ Display\ the\ data\ for\ different\ homes.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=populationStatus
+comment1.target=HomeData(int[])
+comment1.text=\n\ Constructor\ of\ HomeData\ that\ creates\ image\ for\ home\ data.\n\ \n\ @param\ \ \ populationStatus\ \ \ \ The\ status\ of\ human\ in\ home.\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Called\ by\ Greenfoot\ when\ an\ object\ of\ this\ class\ is\ added\ to\ \n\ the\ World.\n\ \n\ @param\ w\ The\ World\ being\ added\ to.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ HomeData\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ checkClose()
+comment4.text=\n\ Check\ whether\ close\ buttom\ is\ being\ clicked.\n
+comment5.params=populationStatus
+comment5.target=void\ drawImage(int[])
+comment5.text=\n\ Draw\ the\ image\ for\ HomeData.\n\ \n\ @param\ \ \ populationStatus\ \ \ \ The\ status\ of\ human\ in\ home.\n
+numComments=6

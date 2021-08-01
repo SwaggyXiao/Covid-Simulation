@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Down
+comment0.text=\n\ Down\ class\n\ \n\ Use\ to\ make\ the\ stats\ (awareness\ and\ mask)\ lower.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Down()
+comment1.text=\n\ Constructor\ of\ Down\ to\ create\ the\ image\ of\ down\ buttom.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Down\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

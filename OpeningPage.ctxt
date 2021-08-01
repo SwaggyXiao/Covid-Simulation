@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OpeningPage
+comment0.text=\n\ Here\ is\ the\ simulation\ opening\ page\n\ <p>\n\ by\ click\ <b>start</b>,\ <b>book</b>,\ <b>Info</b>,\ you\ can\ either\ start\ the\ game,\ open\ the\ game\ instructions,or\ open\ the\ information\ about\ this\ game\n\ \n\ @author\ \uA9C1\u0F3ALeonard\ Jin\u0F3B\uA9C2\ \uA9C1\u0F3AXiao\ Zhang\u0F3B\uA9C2\n\ @version\ 4.2\n
+comment1.params=
+comment1.target=OpeningPage()
+comment1.text=\n\ The\ constructor\ of\ the\ Opening\ World\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

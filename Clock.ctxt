@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\n\ The\ clock\ is\ a\ separate\ individual\ simulation\ of\ the\ sun\ and\ the\ moon\ rising\ and\ setting.\n\ This\ animation\ will\ happen\ on\ the\ top\ left\ side\ of\ the\ simulation\ world\ screen.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=actsPerDay
+comment1.target=Clock(int)
+comment1.text=\n\ Startes\ the\ animation\ by\ creating\ an\ image\ of\ the\ sun\ and\ the\ moon,\ both\ with\ sizes\ 30\ by\ 30\ pixels.\n\ This\ animation\ will\ have\ the\ sun\ and\ the\ moon\ in\ circular\ motion\ representing\ the\ days\ that\ have\ gone\ by\n\ in\ the\ simulation.\n\ \n\ @param\ actsPerDay\ \ \ \ \ \ \ \ Length\ of\ a\ day\ in\ the\ simulation\ counted\ in\ number\ of\ acts\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Called\ when\ actor\ inserted\ into\ the\ world,\ and\ it\ gets\ the\ x\ coordinate\ and\ the\ y\ coordinate\ it\ has\ \n\ when\ getting\ added\ to\ the\ world.\n\ \n\ @param\ w\ \ \ \ \ The\ world\ that\ this\ actor\ was\ added\ to.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Clock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

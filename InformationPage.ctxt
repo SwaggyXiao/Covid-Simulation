@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InformationPage
+comment0.text=\n\ InformationPage\ class\n\ \n\ Display\ the\ background\ information\ of\ Covid.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=InformationPage()
+comment1.text=\n\ Constructor\ for\ InformationPage\ that\ set\ the\ image\ for\ information\ page.\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Called\ by\ Greenfoot\ when\ an\ object\ of\ this\ class\ is\ added\ to\ \n\ the\ World.\n\ \n\ @param\ w\ The\ World\ being\ added\ to.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ InfomationPage\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

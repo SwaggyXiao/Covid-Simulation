@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Close
+comment0.text=\n\ Close\ class\n\ \n\ Use\ to\ close\ the\ inside\ look\ of\ facilities.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Close()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Close\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ initImages()
+comment3.text=\n\ Override\ the\ method\ initImages()\ since\ close\ buttom\ should\ not\ be\ \n\ bigger\ anytime\ and\ should\ change\ image\ only\ when\ mouse\ is\ over.\n
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Resume
+comment0.text=\n\ Write\ a\ description\ of\ class\ Resume\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Resume()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ initImages()
+comment3.text=\n\ Override\ the\ method\ initImages()\ since\ close\ buttom\ should\ not\ be\ \n\ bigger\ anytime\ and\ should\ change\ image\ only\ when\ mouse\ is\ over.\n
+numComments=4

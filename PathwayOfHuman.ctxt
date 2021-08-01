@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PathwayOfHuman
+comment0.text=\n\ PathWayOfHuman\ class\n\ \n\ Creates\ the\ pathway\ of\ human\ for\ human\ in\ different\ location\ of\ homes.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=houseNumber
+comment1.target=PathwayOfHuman(int)
+comment1.text=\n\ Constructor\ of\ PathwayOfHuman\ that\ create\ the\ pathway\ for\ human\n\ \n\ @param\ \ \ houseNumber\ \ \ \ \ The\ number\ corresponding\ to\ house's\ location.\n
+comment2.params=
+comment2.target=int[][]\ pathway()
+comment2.text=\n\ Return\ the\ pathway\ of\ human.\n
+numComments=3

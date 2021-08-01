@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wrong
+comment0.text=\n\ Write\ a\ description\ of\ class\ Wrong\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Wrong()
+comment1.text=\n\ Constructor\ of\ Wrong\ to\ create\ the\ image\ of\ wrong\ buttom.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Wrong\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ initImages()
+comment3.text=\n\ Override\ the\ method\ initImages()\ since\ wrong\ buttom\ should\ have\ different\n\ size\ than\ default\ image's\ size.\n
+numComments=4

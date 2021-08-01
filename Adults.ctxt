@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Adults
+comment0.text=\n\ Adults\ class\n\ \n\ One\ type\ of\ human(adults),\ can\ be\ added\ with\ infected\ status\ into\ the\ simulation.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=age\ Health\ pathway\ houseX\ houseY
+comment1.target=Adults(int,\ java.lang.String,\ int[][],\ int,\ int)
+comment1.text=\n\ Constructor\ for\ Adults\ that\ create\ adults\ and\ set\ initial\ stats.\n\ \n\ @param\ \ \ age\ \ \ \ \ Adults'\ age.\n\ @param\ \ \ Health\ \ Adults'\ health\ situation.\n\ @param\ \ \ pathway\ Adults'\ pathway\ in\ simulation.\n\ @param\ \ \ houseX\ \ House's\ x-coordinate.\n\ @param\ \ \ houseY\ \ House's\ y-coordinate.\n
+comment2.params=age\ houseX\ houseY\ houseNumber
+comment2.target=Adults(int,\ int,\ int,\ int)
+comment2.text=\n\ Constructor\ for\ Adults\ that\ is\ initially\ infected\ and\ set\ their\ intial\ stats.\n\ \n\ @param\ \ \ age\ \ \ \ \ Adults'\ age.\n\ @param\ \ \ houseX\ \ House's\ x-coordinate.\n\ @param\ \ \ houseY\ \ House's\ y-coordinate.\n\ @param\ \ \ houseNumber\ \ \ \ \ The\ number\ that\ correspond\ to\ house's\ location.\n
+comment3.params=
+comment3.target=void\ drawImage()
+comment3.text=\n\ Draw\ the\ image\ for\ adults.\n
+comment4.params=age
+comment4.target=void\ setAge(int)
+comment4.text=\n\ Set\ the\ age\ for\ adults.\n
+comment5.params=
+comment5.target=void\ setAgeRange()
+comment5.text=\n\ Set\ the\ age\ range\ for\ adults.\n
+comment6.params=SW
+comment6.target=void\ scheduleDecision(SimulationWorld)
+comment6.text=\n\ Set\ adults'\ schedule\ randomly.\n\ \n\ @param\ SW\ \ \ \ The\ world\ that\ adults\ belong\ to.\n
+numComments=7

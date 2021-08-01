@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HeadLine
+comment0.text=\n\ HeadLine\ class\n\ \n\ The\ headline\ of\ simulation\ that\ will\ display\ number\ of\ days\ passed,\ number\ of\ \n\ people\ infected,\ infection\ rate\ and\ death\ rate.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=days\ infected\ infectedRate\ deathRate
+comment1.target=HeadLine(int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ of\ HeadLine\ that\ set\ initial\ stats\ and\ image\ for\ headline.\n\ \n\ @param\ days\ \ \ \ \ \ Number\ of\ days\ passed.\n\ @param\ infected\ \ Number\ of\ people\ infected.\n\ @param\ infectedRate\ \ The\ infection\ rate.\n\ @param\ deathRate\ \ \ \ \ The\ death\ rate.\n
+comment2.params=days\ infected\ infectedRate\ deathRate
+comment2.target=void\ Update(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Update\ the\ latest\ stats\ and\ image\ of\ headline.\n\ \n\ @param\ days\ \ \ \ \ \ Number\ of\ days\ passed.\n\ @param\ infected\ \ Number\ of\ people\ infected.\n\ @param\ infectedRate\ \ The\ infection\ rate.\n\ @param\ deathRate\ \ \ \ \ The\ death\ rate.\n
+numComments=3

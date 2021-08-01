@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=School
+comment0.text=\n\ School\ class\n\ \n\ A\ facility\ that\ can\ accomodate\ people.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=School()
+comment1.text=\n\ Constructor\ of\ School\ that\ set\ the\ initial\ stats\ and\ image\n\ for\ school.\n
+comment2.params=
+comment2.target=void\ drawImage()
+comment2.text=\n\ this\ method\ will\ overide\ and\ draw\ the\ image\ of\ the\ transtation,\ as\ well\ as\ add\ the\ close\ sign\ to\ the\ station\ if\ it's\ closed\n
+numComments=3

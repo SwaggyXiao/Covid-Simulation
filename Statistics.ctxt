@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Statistics
+comment0.text=\n\ Statistics\ class\n\ \n\ Set\ all\ the\ stats,\ words\ and\ buttoms\ used\ in\ control\ board.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=Data\ Type
+comment1.target=Statistics(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ of\ Statistics\ that\ create\ image\ for\ statistics.\n\ \n\ @param\ \ \ Data\ \ \ \ The\ data(stats)\ in\ statistics.\n\ @param\ \ \ Type\ \ \ \ The\ type\ of\ statistics.\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ Called\ by\ Greenfoot\ when\ an\ object\ of\ this\ class\ is\ added\ to\ \n\ the\ World.\n\ \n\ @param\ w\ The\ World\ being\ added\ to.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Statistics\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ drawImage()
+comment4.text=\n\ Draw\ the\ image\ of\ statistics.\n
+comment5.params=
+comment5.target=void\ CheckClicking()
+comment5.text=\n\ Check\ whether\ statistics\ board\ is\ being\ clicked.\n
+numComments=6

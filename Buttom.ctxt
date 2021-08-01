@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Buttom
+comment0.text=\n\ Buttom\ class\ \n\ \n\ Use\ to\ clikced\ by\ users.\n\ \n\ @author\ \uA9C1\u0F3ADelun\ Sun\u0F3B\uA9C2\ \uA9C1\u0F3AXiao\ Zhang\u0F3B\uA9C2\n\ @version\ 4.2\n
+comment1.params=image
+comment1.target=Buttom(java.lang.String)
+comment1.text=\n\ Constructor\ of\ Buttom\ that\ used\ to\ set\ image\ for\ its\ subclass.\n\ @param\ image\ \ \ \ \ The\ image\ for\ buttom's\ subclass.\n
+comment2.params=
+comment2.target=void\ checkClicking()
+comment2.text=\n\ Check\ whether\ the\ mouse\ is\ over\ the\ image\ of\ buttoms.\n
+comment3.params=
+comment3.target=void\ initImages()
+comment3.text=\n\ Set\ the\ initial\ image\ of\ buttoms'\ size\ and\ size\ when\ mouse\ is\ over\n\ the\ image.\n
+numComments=4

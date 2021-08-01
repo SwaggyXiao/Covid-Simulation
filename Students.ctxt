@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Students
+comment0.text=\n\ Students\ class\n\ \n\ One\ type\ of\ human(students).\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=age\ Health\ pathway\ houseX\ houseY
+comment1.target=Students(int,\ java.lang.String,\ int[][],\ int,\ int)
+comment1.text=\n\ Constructor\ for\ Students\ that\ create\ students\ and\ set\ initial\ stats.\n\ \n\ @param\ \ \ age\ \ \ \ \ Students'\ age.\n\ @param\ \ \ Health\ \ Students'\ health\ situation.\n\ @param\ \ \ pathway\ Students'\ pathway\ in\ simulation.\n\ @param\ \ \ houseX\ \ House's\ x-coordinate.\n\ @param\ \ \ houseY\ \ House's\ y-coordinate.\n
+comment2.params=
+comment2.target=void\ drawImage()
+comment2.text=\n\ Draw\ the\ image\ for\ students.\n
+comment3.params=age
+comment3.target=void\ setAge(int)
+comment3.text=\n\ Set\ the\ age\ for\ students.\n
+comment4.params=
+comment4.target=void\ setAgeRange()
+comment4.text=\n\ Set\ the\ age\ range\ for\ students.\n
+comment5.params=SW
+comment5.target=void\ scheduleDecision(SimulationWorld)
+comment5.text=\n\ Set\ students'\ schedule\ randomly.\n\ \n\ @param\ SW\ \ \ \ The\ world\ that\ students\ belong\ to.\n
+numComments=6
